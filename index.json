@@ -21,7 +21,7 @@
             "name": "APISpecArchitect",
             "category": "spec",
             "versions": {
-                "1.0.0": "skills/spec/APISpecArchitect/APISpecArchitect.md"
+                "1.0.0": "skills/spec/APISpecArchitect/1.0.0.md"
             },
             "latest": "1.0.0"
         },
@@ -29,7 +29,7 @@
             "name": "UISpecArchitect",
             "category": "spec",
             "versions": {
-                "1.0.0": "skills/spec/UISpecArchitect/UISpecArchitect.md"
+                "1.0.0": "skills/spec/UISpecArchitect/1.0.0.md"
             },
             "latest": "1.0.0"
         },
@@ -37,7 +37,7 @@
             "name": "UserStoryArchitect",
             "category": "spec",
             "versions": {
-                "1.0.0": "skills/spec/UserStoryArchitect/UserStoryArchitect.md"
+                "1.0.0": "skills/spec/UserStoryArchitect/1.0.0.md"
             },
             "latest": "1.0.0"
         }

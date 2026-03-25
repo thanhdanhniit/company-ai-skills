@@ -1,0 +1,34 @@
+{
+    "skills": [
+        {
+            "name": "ReactFrontendArchitect",
+            "category": "architecture",
+            "path": "skills/architecture/ReactFrontendArchitect.md",
+            "version": "1.0"
+        },
+        {
+            "name": "JavaBackendArchitect",
+            "category": "architecture",
+            "path": "skills/architecture/ReactFrontendArchitect.md",
+            "version": "1.0"
+        },
+        {
+            "name": "APISpecArchitect",
+            "category": "spec",
+            "path": "skills/spec/APISpecArchitect.md",
+            "version": "1.0"
+        },
+        {
+            "name": "UISpecArchitect",
+            "category": "spec",
+            "path": "skills/spec/UISpecArchitect.md",
+            "version": "1.0"
+        },
+        {
+            "name": "UserStoryArchitect",
+            "category": "spec",
+            "path": "skills/spec/UserStoryArchitect.md",
+            "version": "1.0"
+        }
+    ]
+}

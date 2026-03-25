@@ -40,6 +40,30 @@
                 "1.0.0": "skills/spec/UserStoryArchitect/1.0.0.md"
             },
             "latest": "1.0.0"
+        },
+        {
+            "name": "CodeQualityStandards",
+            "category": "foundation",
+            "versions": {
+                "1.0.0": "skills/foundation/CodeQualityStandards/1.0.0.md"
+            },
+            "latest": "1.0.0"
+        },
+        {
+            "name": "TestingStandards",
+            "category": "foundation",
+            "versions": {
+                "1.0.0": "skills/foundation/TestingStandards/1.0.0.md"
+            },
+            "latest": "1.0.0"
+        },
+        {
+            "name": "SecurityBestPractices",
+            "category": "foundation",
+            "versions": {
+                "1.0.0": "skills/foundation/SecurityBestPractices/1.0.0.md"
+            },
+            "latest": "1.0.0"
         }
     ]
 }

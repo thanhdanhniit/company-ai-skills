@@ -12,26 +12,34 @@
         {
             "name": "JavaBackendArchitect",
             "category": "architecture",
-            "path": "skills/architecture/ReactFrontendArchitect.md",
-            "version": "1.0"
+            "versions": {
+                "1.0.0": "skills/architecture/JavaBackendArchitect/1.0.0.md"
+            },
+            "latest": "1.0.0"
         },
         {
             "name": "APISpecArchitect",
             "category": "spec",
-            "path": "skills/spec/APISpecArchitect.md",
-            "version": "1.0"
+            "versions": {
+                "1.0.0": "skills/spec/APISpecArchitect/APISpecArchitect.md"
+            },
+            "latest": "1.0.0"
         },
         {
             "name": "UISpecArchitect",
             "category": "spec",
-            "path": "skills/spec/UISpecArchitect.md",
-            "version": "1.0"
+            "versions": {
+                "1.0.0": "skills/spec/UISpecArchitect/UISpecArchitect.md"
+            },
+            "latest": "1.0.0"
         },
         {
             "name": "UserStoryArchitect",
             "category": "spec",
-            "path": "skills/spec/UserStoryArchitect.md",
-            "version": "1.0"
+            "versions": {
+                "1.0.0": "skills/spec/UserStoryArchitect/UserStoryArchitect.md"
+            },
+            "latest": "1.0.0"
         }
     ]
 }
